@@ -1,20 +1,20 @@
-
-
-    body{
-      background-color: #98acf8;/*поставил на общий стол сайта цвет,через css стили */
-    }
-    hr{
-      border-style: none;
-      border-top-style: dotted;
-      border-width: 5px;
-      border-color: red;
-      width: 10%;
-      /*в этом всём блоке разметки, я указал что линия подчёркивания будет (dotted-состоять из точек,width размер точек,color-
+body {
+  background-color: #112368; /*поставил на общий стол сайта цвет,через css стили */
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: red;
+  width: 10%;
+  /*в этом всём блоке разметки, я указал что линия подчёркивания будет (dotted-состоять из точек,width размер точек,color-
       цвет точки будет красный,width точечное подчёркивание будет занимать 10% ширины сайта )*/
-    }
-    img{
-      height: 600px; /*здесь указал на размер конкретной картинки на сайте */
-    }
-    h1,h2,h3{
-      color:#79a3b1;
-    }
+}
+img {
+  height: 600px; /*здесь указал на размер конкретной картинки на сайте */
+}
+h1,
+h2,
+h3 {
+  color: #79a3b1;
+}
